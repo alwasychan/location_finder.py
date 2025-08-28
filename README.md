@@ -33,11 +33,15 @@ The app will display the full address and coordinates
 --Clean, user-friendly interface with Tkinter
 
 -- IP-based location detection
+
 --Address search functionality
+
 --Reverse geocoding to get address from coordinates
+
 --Direct links to Google Maps and OpenStreetMap
+
 --Error handling for network issues and service unavailability
 
 **The app will show the actual address/location name instead of just coordinates, which addresses the issue will be mentioned.**
 
-I took help from Deepseek R1 :) 
+**I took help from Deepseek R1 :)** 
